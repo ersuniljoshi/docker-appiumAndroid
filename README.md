@@ -20,9 +20,9 @@ ubuntu:14.04
 
 ## Steps to Build from Github
 
-git clone https://github.com/ersuniljoshi/docker-appiumAndroid.git
-docker build -t vishalsk/appium-android:17.1 docker-appiumAndroid/.
-docker images 
+1. git clone https://github.com/ersuniljoshi/docker-appiumAndroid.git
+2. docker build -t vishalsk/appium-android:17.1 docker-appiumAndroid/.
+3. docker images 
 
 ###  Run Image
    
